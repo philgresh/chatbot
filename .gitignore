@@ -1,5 +1,6 @@
 .env
 node_modules/
 .sass-cache/
+**/.sass-cache
 **.css.map
 public/css/*.css.map

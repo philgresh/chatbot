@@ -1,0 +1,392 @@
+{
+  "$schema": "https://json.schemastore.org/resume",
+  "basics": {
+    "name": "Phil Gresham",
+    "label": "Frontend and fullstack software engineer. React | Ruby | Redux | JavaScript | Express | Ruby on Rails | AWS | GCP",
+    "image": "https://photos.app.goo.gl/jLdLN1r9tEAXnoed6",
+    "email": "phil@gresham.dev",
+    "phone": "951-775-7549",
+    "url": "https://gresham.dev",
+    "resume": "https://drive.google.com/file/d/105YaM90nAy8KuAEmGRLfZGCQe9dK5wsX/view?usp=sharing",
+    "summary": "I'm a software engineer in the Bay Area with broad experience working with JavaScript/React frontends and a variety of backends, including Ruby on Rails, ExpressJS, and AWS AppSync. I love working on all aspects of an app but I'm especially drawn to creating new components/pages on the frontend and working with business logic on the backend.\n\nPrior to software development, I was a project manager in the electric utility industry, where I coordinated the activities of 3 full crews. I've always built my own tools to solve specific problems (usually Excel calculators) and I took that a step further when I founded my own productivity app aimed at people working in the same position. In addition to honing my technical skills, this experience has taught me about making great UI/UX decisions, locking down information security, and making apps accessible to everyone.\n\nSome of my favorite technologies to work with include Google Cloud Platform's Firebase & Firestore, AWS S3, MongoDB, Express, React, Redux, NodeJS, Material UI, and GraphQL.\n\nOutside of work, I enjoy traveling in the off-season, cycling along the Bay Trail, and tinkering with projects at ACE Makerspace in Oakland. I'm proudest of some of my woodworking projects, including a set of cherry wood bookshelf speakers and my dining room table.",
+    "location": {
+      "address": "United States",
+      "postalCode": "",
+      "city": "",
+      "state": "CA",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "philgresham",
+        "url": "https://www.linkedin.com/in/philgresham/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Outrigger.app",
+      "endDate": "2020-09-30",
+      "highlights": [],
+      "position": "Founder",
+      "startDate": "2018-06-30",
+      "summary": "• Building off my experience working with field and office personnel, I am leading development of a mobile-first, offline-first app to make utility construction more efficient.\n• Focus on intuitive and fresh design, accessibility, and rapidly-changing team structures.\n• Stack includes React, Redux, MaterialUI, Google Firebase database and authentication, multi-tenant/multi-role authorization, real-time data sync.",
+      "url": ""
+    },
+    {
+      "name": "Cupertino Electric, Inc.",
+      "endDate": "2018-06-30",
+      "highlights": [],
+      "position": "Project Engineer",
+      "startDate": "2017-03-31",
+      "summary": " - Coordinate all pre-construction activities for three crews from PG&E-handoff until execution \n - Visit project sites and access high-voltage structures to verify clearance points to minimize impact to customers and recognize risks to success\n - Work directly with distribution operations center (DO/DOC) to obtain clearances, establish non-test orders, and communicate required electric shutdowns\n - Allocated manpower resources to optimize scheduling in consultation with general foreman\n - Schedule larger bid projects and communicate labor expectations with general foreman\n - Contracted external resources for civil work, traffic control, vegetation management, etc.\n - Furnish a concise week-ahead schedule to PG&E supervision using a self-designed Excel macro that pulls information from the shared tracker, eliminating upwards of 6 hours/week \n - Remodeled the design and information flow for an online tracker with 10-15 concurrent users; continuously input and maintain coordination information for assigned crews\n - Successfully completed a last-minute, year-end operation for a high-priority customer; involved coordinating with the DO, city permitting officials, civil subcontractors, PG&E superintendent, and customer’s contractors. Involved a 584-customer shutdown for 8 hours and essential civil work on one of the city’s main thoroughfares.",
+      "url": ""
+    },
+    {
+      "name": "Southern California Edison (SCE)",
+      "endDate": "2016-09-30",
+      "highlights": [],
+      "position": "Distibution Service Planner/Estimator",
+      "startDate": "2013-08-31",
+      "summary": " - Worked with customers and their consultants to design primary-voltage systems, with projects including large housing tracts, multi-family housing complexes, overhead-to-underground conversions, solar co-generation sites, and electric vehicle charging stations\n - Prioritized safety by incorporating a “brother’s keeper” mentality from the design stage all the way to field operation\n - Created designs using AutoCAD adhering to strict standards including company spec books; CPUC General Orders 95 & 128, Rules, Rates; and local ordinances\n - Ordered correct material and assumed accountability for accuracy of cost estimating\n - Communicated project updates and potential conflicts with key stakeholders and sought to resolve customers’ design concerns to mutual benefit\n - Led a company-scale project to modernize the transformer loading calculation process. This will leverage smart-meter data directly to allow planners to view actual peak loading on a measured, per-meter basis and will save the company millions of dollars annually in transformer and secondary replacement and several hundred-thousand dollars in labor.",
+      "url": ""
+    },
+    {
+      "name": "Southern California Edison (SCE)",
+      "endDate": "2016-06-30",
+      "highlights": [],
+      "position": "Mobile Home Park Conversion Program Planner/Estimator",
+      "startDate": "2015-08-31",
+      "summary": " - This CPUC-driven pilot program converts mobile home parks (MHPs) that are currently master-metered to a new design where each space is individually-metered. There are currently over 200 parks scattered throughout the territory that have submitted applications for conversion. The MHP Conversion Team creates innovative renovations of old systems.\n - Conducted field visit(s) to spot new meter pedestal locations, plan the park’s new feedpoint and distribution system, document material to be removed, and accurately price work order packages\n - Developed and documented unique work order pricing processes required for MHP projects\n - Designed $5M in capital projects in 2015",
+      "url": ""
+    },
+    {
+      "name": "Shutterfly",
+      "endDate": "2012-12-31",
+      "highlights": [],
+      "position": "Customer Service Representative / Errors and Omissions Reporter",
+      "startDate": "2012-10-31",
+      "summary": "After gaining a comprehensive knowledge of the processes involved in the life of a stationery order (including customer input, internal workflow, order batching procedures, printing mechanics, and packing and shipping steps), I reviewed each reported error to determine the procedural cause of the error and who/what was at fault. This work involved plotting a mental timeline of events in relation to their expected values, assessing the performance of employees and fulfillment sites, and handing down a judgment that is both fair and complete in detail. On my own initiative, I wrote a VBA script to eliminate part of the workflow for my position, enabling a greater number of reviewed errors per day.",
+      "url": ""
+    },
+    {
+      "name": "Oxfam Novib",
+      "endDate": "2011-09-30",
+      "highlights": [],
+      "position": "Graduate Researcher",
+      "startDate": "2011-03-31",
+      "summary": "Researched the roles of gender and remittances on changing household roles under the direction of Dr. Ton van Naerssen and with the assistance of Dr. Leny Ocasiones. This research entailed conducting multiple in-person, in-depth interviews of 27 households. Difficulties in finding male respondents necessitated unique sampling methods, including using snowball sampling, respondent-driven sampling, and broadcasting our research on a local radio station. Beyond producing data, Ms. Marieke Smit and I presented an introduction to social science methodology for a sociology course (explaining the methods we used and how we adapted to local conditions) as well as preliminary findings of our research at the University of San Carlos. \n\nOur results were presented in front of a class taught by Dr. Lothar Smith at the Radboud University Nijmegen upon return, and at the Expert Meeting on Gender and Remittances sponsored by Oxfam Novib in The Hague, also coordinated by Ton van Naerssen.",
+      "url": ""
+    },
+    {
+      "name": "Radboud University Nijmegen",
+      "endDate": "2011-09-30",
+      "highlights": [],
+      "position": "Graduate Student",
+      "startDate": "2010-08-31",
+      "summary": "Completed my MSc. degree with a 7,95 grade point average and a thesis scoring 8,5 (Dutch grading scale; to compare to another national grading scale, please see http://www.nuffic.nl/international-organizations/docs/publications/Gradingsystems.pdf). My thesis, entitled \"Heroes at Home? Disputing Popular Images of Nonmigrating Husbands of Overseas Filipina Worker\", may be read at http://phillipgresham.com/docs/heroes-at-home.pdf. Other of my work can be read at http://phillipgresham.com/papers.",
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "App Academy",
+      "area": "Computer Software Engineering",
+      "studyType": "Software Engineering Track",
+      "startDate": "2020-12-31",
+      "endDate": "2020-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "San Diego State University",
+      "area": "Anthropology, Geographical Methods",
+      "studyType": "BA",
+      "startDate": "2006-12-31",
+      "endDate": "2009-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of California, Irvine",
+      "area": "Project Management",
+      "studyType": "Project Management Certificate",
+      "startDate": "2014-12-31",
+      "endDate": "2015-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Radboud Universiteit Nijmegen",
+      "area": "Globalization, Migration, and Development",
+      "studyType": "MSc.",
+      "startDate": "2010-12-31",
+      "endDate": "2011-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Gender and Remittances: The case of the Philippines",
+      "publisher": "Oxfam Novib",
+      "releaseDate": "2011-09-30",
+      "website": "http://phillipgresham.com/docs/oxfam-novib-report-gresham-smit.pdf",
+      "summary": "Paper presented to the Oxfam Novib Expert Meeting on Gender and Remittances.\nIn this study of the households of migrants living in Cebu City, we observed trends aligning with the two forms of migration, namely whether the husband/father or the wife/mother migrates. The former has the least effect on a household and its relations. Family members take over tasks when a man goes abroad, especially their wives, although the husband retains his role as main breadwinner. Male migration stimulates women to maintain their traditional roles as housewives, since the salary of the men increases by the migration and there is little need for additional income from the female spouses. Since the role of the women to be a mother and/or \"plain housewife\" is still favored by society (with much influence of the Catholic Church), this can be maintained when the income of the husband is sufficient to support this situation. Most men decide the amount of remittances that is send to their families back home, and in many cases, their spouses are not even familiar with the total salary. The large majority of women were not externally employed and they totally depend on the husband's foreign salary. Many women revealed their wish for a different career than being a full-time housewife, however the preference of their husband holds greater weight in this decision-making process. Within the household, the negotiation process does not change after migration, especially regarding expenditures. "
+    },
+    {
+      "name": "Heroes at Home? Disputing Popular Images of Nonmigrating Husbands of Overseas Filipina Workers",
+      "publisher": "Radboud University Nijmegen",
+      "releaseDate": "2011-09-23",
+      "website": "http://phillipgresham.com/docs/heroes-at-home.pdf",
+      "summary": "Master's thesis.\nFilipino migration is characterized by taking up positions abroad that conform to gender roles, while nonmigrating household members take over the duties of the absent migrant. When those duties do not conform to one's gender role, one is less likely to perform the duty. In the case of a mother migrating, the father (who is \"traditionally\" seen as the main breadwinner, but not as the primary parent) is put into a position wherein he earns less than his wife and is expected to take care of the children. However, men are also commonly considered less capable of raising children, despite communications technology having advanced so that dual parenting can still be accomplished from abroad; fathers do not have to be seen as the only parents in this situation. The stigmatization that men experience as a result of their wives migrating has a serious effect on their feelings of masculinity and is further exacerbated by the \"New Heroes\" national script put forward by the government, which praises migrants as saving the nation while ignoring the equal (or greater) labor carried out in their absence. This thesis, built upon fieldwork conducted in Cebu City, disputes the widespread reputation of men as incapable fathers who rely entirely upon their wives' remittances, and advocates calling more attention to the gender- and vocation-biased praise of the New Heroes propaganda."
+    },
+    {
+      "name": "The Cross-border Governance of Western Sahara",
+      "publisher": "Unpublished Manuscript - Radboud University Nijmegen",
+      "releaseDate": "2011-04-15",
+      "website": "http://phillipgresham.com/docs/cross-border-governance-western-sahara.pdf",
+      "summary": "The decades-long struggle of the separatist Polisario organization in Western Sahara has resulted in one of the largest man-made border demarcations in the world representing a significant diversion of Moroccan monetary and social capital, ubiquitous military and peacekeeping presence, and increasing international pressure to resolve the situation diplomatically. Morocco's strict reaction toward (perceived) treasonous acts—including organizational activities in favor of autonomy such as distributing flyers or congregating, or even the legal registration of sympathetic human rights NGOs in the province—prevents the pro-independence Sahrawi from developing momentum. However, recent fiscal injections and reduced oppression by the ruling government have brought the territory's human rights and development levels on par with Morocco’s northern region, diminishing Sahrawi \"saber-rattling\" and shifting the local opinion from want of statehood to that of increased autonomy and a regional identity. While in the public eye it would appear the decision is left up to Moroccan and Sahrawi leadership, a few interested states formulate shared \"strategic planning\" behind the scenes (evidenced by leaked and declassified documents) to encourage democratic reform through selective incentives, suggesting a paternalistic relationship similar to Hardt and Negri's Empire, with Spain at the head. A successful resolution of this conflict—strongly desired by the UN, USA, France, ex-colonizer Spain, and neighboring states—would free up a large proportion of Morocco’s GDP spent on placing the military at the \"berm\", ease cross-relations within a number of Mediterranean states, negate the extension of a UN peacekeeping mission, and improve the human rights status of the region as a whole."
+    },
+    {
+      "name": "Selling Life: The global organs trade and the part played by Brazilian slum-dwellers",
+      "publisher": "Unpublished manuscript - Radboud University Nijmegen",
+      "releaseDate": "2010-12-13",
+      "website": "http://phillipgresham.com/docs/selling-life.pdf",
+      "summary": "A 1000-word précis about the global organ trade and the interaction with local immigrants."
+    },
+    {
+      "name": "The Conundrum of the Mexican–American Border: Anti-immigrant attitudes and free trade",
+      "publisher": "Unpublished manuscript - Radboud University Nijmegen",
+      "releaseDate": "2010-10-30",
+      "website": "http://phillipgresham.com/docs/mexican-american-border.pdf",
+      "summary": "In this essay we shed light on the common contradictions and paradoxes that abound in the discourses (i.e. language and practices) regarding immigration from poor to rich countries. Within the context of the Mexican-American border, we explain the historical and material sources of American anti-immigrant attitudes—which could be extrapolated to other developed countries. We also talk about how the North American Trade Agreement (NAFTA) illustrates the inconsistency between the anxiety to stop immigration and the eagerness to enjoy its economic benefits. We believe that this border case in particular exemplifies why borders still matter. Sometimes maps may depict arbitrary lines that make very clear-cut divisions between one country and another, even though those artificial lines do not represent real divisions of culture, institutions, economy, social norms, law enforcement, wealth or policymaking. However, we believe that the Mexico-U.S. border does in fact reflect an accurate reality because the differences from one side of the border to the other are striking. More generally, we aim at provoking a reflection regarding how foreign policy of immigration should not be separated from its political roots, which grow out from perceptions about social realities."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Utility Industry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Electrical Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Electrical Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Intercultural Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Globalization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spatial Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VBA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Anthropology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "International Background",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Big Data",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Serverless Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Certified Associate in Project Management (CAPM)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AutoCAD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer-Aided Design (CAD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Development Studies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "International Education",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Big Data Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redux.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Power Distribution",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lean Startup",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Workplace Safety",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geospatial Technologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Autodesk Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Immigration",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Aatef Baransy",
+      "reference": "I worked with Phil on building a full stack game, AcrossWords, which is a spin on the classic CrossWords. Phil demonstrated a deep and thorough understanding of MongoDB by skillfully engineering the backend, which held approximately 16,000 entries. Not only did the database allow for impressively quick access, but it also had an intuitive interface, which enabled all of frontend components to fetch data with ease. In addition to his technical skills, Phil was highly collaborative and regularly reached out to other group members to ensure that everyone was on the same page. In a nutshell, I greatly enjoyed working with Phil, and would strongly recommend him. "
+    },
+    {
+      "name": "Camille Fogg",
+      "reference": "It's rare that you come across standout talent like Phil. I had the pleasure of working with him during our shared time at App Academy. I was always impressed by his exceptional ability to efficiently and analytically solve problems. His software engineering expertise is also clearly evident in his clean and concise code. Although his proposed approach was oftentimes the optimal one, he was always very open to everyone's ideas and was a truly enjoyable person to work with. As a team member or leader, Phil earns my highest recommendation. "
+    },
+    {
+      "name": "Kevin Ross",
+      "reference": "Phil impresses me every day with his knowledge and ambition. While working with Phil during pair-boarding at app-academy, he displayed unparalleled problem-solving skills and was able to communicate his thoughts extremely clearly and was very adept at creating a plan to solve the challenges we faced. Phil has shown mastery of the coding concepts we have learned time and time again, and I know he will bring new ideas and creative solutions to any company lucky enough to have him on their team."
+    },
+    {
+      "name": "Elijah Dove",
+      "reference": "I had the great pleasure of working with Phil throughout the course of our 16 week, 1000+ hour coding bootcamp during the summer of 2020. The first day I worked with him, I was immediately struck by his attitude and friendly demeanor. Over the weeks that followed, it became very clear he was knowledgeable, consistently able to provide clean code while working through projects. He has a strong grasp of Ruby, HTML, and JavaScript, but never railroaded the workflow, instead engaging myself and others in genuine discussion to find the solution that worked best for everyone. I cannot recommend him enough!"
+    },
+    {
+      "name": "Jacob Prall",
+      "reference": "Phil is a clever and collaborative software engineer. He approaches problems in thoughtful ways, and believes strongly in readability and separation of concerns. Phil is excellent at entering a situation, evaluating the current code, and finding ways to optimize. I recommend Phil to anyone looking for an intelligent, creative team player on their software team."
+    }
+  ],
+  "projects": [
+    {
+      "name": "SignDocs",
+      "url": "https://signdocs.herokuapp.com",
+      "description": "- Leveraged Ruby on Rails polymorphic associations for 'stand-in' fields to drag onto a PDF document, to allow users to assign fields to other users without committing their values.\n- Stored signature data as SVGs on AWS S3 storage instead of data strings, to improve caching and visibility on other users’ screens.\n- Delighted users by allowing personalized signatures, using either a mouse/trackpad (used react-signature-pad to derive an SVG from canvas) or selecting from various fonts (Google Fonts).\n- Implemented forgotten-password and document finalization features that send emails to users through SendGrid."
+    }
+  ]
+}

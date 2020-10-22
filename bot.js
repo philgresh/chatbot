@@ -6,7 +6,6 @@
 
 // Import Botkit's core features
 const { Botkit } = require('botkit');
-const { BotkitCMSHelper } = require('botkit-plugin-cms');
 
 // Import a platform-specific adapter for web.
 
@@ -31,15 +30,6 @@ const controller = new Botkit({
   adapter: adapter,
   storage,
 });
-
-if (process.env.CMS_URI) {
-  controller.usePlugin(
-    new BotkitCMSHelper({
-      uri: process.env.CMS_URI,
-      token: process.env.CMS_TOKEN,
-    })
-  );
-}
 
 // Once the bot has booted up its internal services, you can use them to do stuff.
 controller.ready(() => {

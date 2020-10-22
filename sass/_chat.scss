@@ -1,9 +1,10 @@
-$action_color: orange;
+$action_color: $sunglow;
 $background: #ffffff;
 $bot_message_background: #f0f0f0;
 $bot_message_text: #333;
-$human_message_background: $botkit_purple;
-$human_message_text: white;
+$human_message_background: $indigo_dye;
+$human_message_text: #eee;
+$message_font_size: large;
 
 #message_window {
   background: $background;
@@ -63,19 +64,13 @@ $human_message_text: white;
 
   section {
     flex-grow: 1;
-    flex-direction: column;
+    flex-direction: column-reverse;
     display: flex;
     overflow-y: auto;
 
     div div {
       margin: 0.25rem;
       clear: both;
-    }
-
-    & #message_list {
-      & > div {
-        color: inherit;
-      }
     }
   }
 
@@ -109,7 +104,7 @@ $human_message_text: white;
   }
 
   .message {
-    font-size: 14px;
+    font-size: $message_font_size;
     padding: 0.5rem;
     background: $bot_message_background;
     color: $bot_message_text;
@@ -182,16 +177,17 @@ $human_message_text: white;
     a {
       text-decoration: none;
       display: block;
-      border: 1px solid $botkit_purple;
-      color: $botkit_purple;
+      border: 2px solid $spanish_viridian;
+      background-color: $spanish_viridian;
+      color: $bot_message_background;
       border-radius: 16px;
       padding: 0.25rem 1rem;
-      font-size: 14px;
+      font-size: $message_font_size;
       cursor: pointer;
 
       &:hover {
-        background: $botkit_purple;
-        color: #fff;
+        color: $spanish_viridian;
+        background-color: #fff;
       }
     }
   }
