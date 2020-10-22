@@ -94,6 +94,28 @@ const formatWork = (work) => {
   return text;
 };
 
+const formatEducation = (education) => {
+  const { institution, area, studyType, startDate, endDate } = education;
+  const start = format(parseISO(startDate), 'MMM yyyy');
+  const end = format(parseISO(endDate), 'MMM yyyy');
+
+  const degree = `<span className="degree">${area}</span>`;
+  
+
+  const company = url > '' ? `${linkify(url, work.name)}` : work.name;
+  const position = `<span className="position">${work.position}</span>`;
+  const name = `<span className="name">${company}</span>`;
+  const topLine = `${position}&nbsp;|&nbsp;${name}`;
+  const range = `<span className="range">${start} - ${end}</span>`;
+  const description = `<span className="description">${summary}</span>`;
+
+  let text = `${topLine}`;
+  text = `${text}\n${range}`;
+  text = `${text}\n${description}`;
+
+  return text;
+};
+
 module.exports = function (controller) {
   controller.hears(
     ['allcaps', new RegExp(/^[A-Z\s]+$/)],
@@ -151,6 +173,20 @@ module.exports = function (controller) {
 
     response.forEach(async (work) => {
       await bot.reply(message, formatWork(work));
+    });
+  });
+
+  // EDUCATION
+  controller.hears('Education', ['message', 'direct_message'], async function (
+    bot,
+    message
+  ) {
+    const response = resume.education;
+
+    await bot.reply(message, "Here's my educational background:");
+
+    response.forEach(async (education) => {
+      await bot.reply(message, formatEducation(education));
     });
   });
 };

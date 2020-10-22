@@ -74,15 +74,6 @@
       "courses": []
     },
     {
-      "institution": "San Diego State University",
-      "area": "Anthropology, Geographical Methods",
-      "studyType": "BA",
-      "startDate": "2006-12-31",
-      "endDate": "2009-12-31",
-      "gpa": "",
-      "courses": []
-    },
-    {
       "institution": "University of California, Irvine",
       "area": "Project Management",
       "studyType": "Project Management Certificate",
@@ -97,6 +88,15 @@
       "studyType": "MSc.",
       "startDate": "2010-12-31",
       "endDate": "2011-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "San Diego State University",
+      "area": "Anthropology, Geographical Methods",
+      "studyType": "BA",
+      "startDate": "2006-12-31",
+      "endDate": "2009-12-31",
       "gpa": "",
       "courses": []
     }
