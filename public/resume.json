@@ -30,9 +30,18 @@
       "name": "Outrigger.app",
       "endDate": "2020-09-30",
       "highlights": [],
-      "position": "Founder",
+      "position": "Founder / Lead Developer",
       "startDate": "2018-06-30",
-      "summary": "• Building off my experience working with field and office personnel, I am leading development of a mobile-first, offline-first app to make utility construction more efficient.\n• Focus on intuitive and fresh design, accessibility, and rapidly-changing team structures.\n• Stack includes React, Redux, MaterialUI, Google Firebase database and authentication, multi-tenant/multi-role authorization, real-time data sync.",
+      "summary": " - Led the development of a mobile-first, offline-first app to make utility construction more efficient using React / Redux, Google Firebase authentication, Firestore real-time database.",
+      "url": "https://outrigger.app"
+    },
+    {
+      "name": "Point West Power",
+      "endDate": "2018-09-30",
+      "highlights": [],
+      "position": "Project Manager",
+      "startDate": "2018-06-01",
+      "summary": " - Designed Sharepoint database and safety/documentation apps for 4 initial crews.",
       "url": ""
     },
     {
@@ -41,7 +50,7 @@
       "highlights": [],
       "position": "Project Engineer",
       "startDate": "2017-03-31",
-      "summary": " - Coordinate all pre-construction activities for three crews from PG&E-handoff until execution \n - Visit project sites and access high-voltage structures to verify clearance points to minimize impact to customers and recognize risks to success\n - Work directly with distribution operations center (DO/DOC) to obtain clearances, establish non-test orders, and communicate required electric shutdowns\n - Allocated manpower resources to optimize scheduling in consultation with general foreman\n - Schedule larger bid projects and communicate labor expectations with general foreman\n - Contracted external resources for civil work, traffic control, vegetation management, etc.\n - Furnish a concise week-ahead schedule to PG&E supervision using a self-designed Excel macro that pulls information from the shared tracker, eliminating upwards of 6 hours/week \n - Remodeled the design and information flow for an online tracker with 10-15 concurrent users; continuously input and maintain coordination information for assigned crews\n - Successfully completed a last-minute, year-end operation for a high-priority customer; involved coordinating with the DO, city permitting officials, civil subcontractors, PG&E superintendent, and customer’s contractors. Involved a 584-customer shutdown for 8 hours and essential civil work on one of the city’s main thoroughfares.",
+      "summary": " - Built supervision schedule for utility client using a custom Excel macro to pull project data from a central database, eliminating 6+ hours/week.",
       "url": ""
     },
     {
@@ -50,43 +59,7 @@
       "highlights": [],
       "position": "Distibution Service Planner/Estimator",
       "startDate": "2013-08-31",
-      "summary": " - Worked with customers and their consultants to design primary-voltage systems, with projects including large housing tracts, multi-family housing complexes, overhead-to-underground conversions, solar co-generation sites, and electric vehicle charging stations\n - Prioritized safety by incorporating a “brother’s keeper” mentality from the design stage all the way to field operation\n - Created designs using AutoCAD adhering to strict standards including company spec books; CPUC General Orders 95 & 128, Rules, Rates; and local ordinances\n - Ordered correct material and assumed accountability for accuracy of cost estimating\n - Communicated project updates and potential conflicts with key stakeholders and sought to resolve customers’ design concerns to mutual benefit\n - Led a company-scale project to modernize the transformer loading calculation process. This will leverage smart-meter data directly to allow planners to view actual peak loading on a measured, per-meter basis and will save the company millions of dollars annually in transformer and secondary replacement and several hundred-thousand dollars in labor.",
-      "url": ""
-    },
-    {
-      "name": "Southern California Edison (SCE)",
-      "endDate": "2016-06-30",
-      "highlights": [],
-      "position": "Mobile Home Park Conversion Program Planner/Estimator",
-      "startDate": "2015-08-31",
-      "summary": " - This CPUC-driven pilot program converts mobile home parks (MHPs) that are currently master-metered to a new design where each space is individually-metered. There are currently over 200 parks scattered throughout the territory that have submitted applications for conversion. The MHP Conversion Team creates innovative renovations of old systems.\n - Conducted field visit(s) to spot new meter pedestal locations, plan the park’s new feedpoint and distribution system, document material to be removed, and accurately price work order packages\n - Developed and documented unique work order pricing processes required for MHP projects\n - Designed $5M in capital projects in 2015",
-      "url": ""
-    },
-    {
-      "name": "Shutterfly",
-      "endDate": "2012-12-31",
-      "highlights": [],
-      "position": "Customer Service Representative / Errors and Omissions Reporter",
-      "startDate": "2012-10-31",
-      "summary": "After gaining a comprehensive knowledge of the processes involved in the life of a stationery order (including customer input, internal workflow, order batching procedures, printing mechanics, and packing and shipping steps), I reviewed each reported error to determine the procedural cause of the error and who/what was at fault. This work involved plotting a mental timeline of events in relation to their expected values, assessing the performance of employees and fulfillment sites, and handing down a judgment that is both fair and complete in detail. On my own initiative, I wrote a VBA script to eliminate part of the workflow for my position, enabling a greater number of reviewed errors per day.",
-      "url": ""
-    },
-    {
-      "name": "Oxfam Novib",
-      "endDate": "2011-09-30",
-      "highlights": [],
-      "position": "Graduate Researcher",
-      "startDate": "2011-03-31",
-      "summary": "Researched the roles of gender and remittances on changing household roles under the direction of Dr. Ton van Naerssen and with the assistance of Dr. Leny Ocasiones. This research entailed conducting multiple in-person, in-depth interviews of 27 households. Difficulties in finding male respondents necessitated unique sampling methods, including using snowball sampling, respondent-driven sampling, and broadcasting our research on a local radio station. Beyond producing data, Ms. Marieke Smit and I presented an introduction to social science methodology for a sociology course (explaining the methods we used and how we adapted to local conditions) as well as preliminary findings of our research at the University of San Carlos. \n\nOur results were presented in front of a class taught by Dr. Lothar Smith at the Radboud University Nijmegen upon return, and at the Expert Meeting on Gender and Remittances sponsored by Oxfam Novib in The Hague, also coordinated by Ton van Naerssen.",
-      "url": ""
-    },
-    {
-      "name": "Radboud University Nijmegen",
-      "endDate": "2011-09-30",
-      "highlights": [],
-      "position": "Graduate Student",
-      "startDate": "2010-08-31",
-      "summary": "Completed my MSc. degree with a 7,95 grade point average and a thesis scoring 8,5 (Dutch grading scale; to compare to another national grading scale, please see http://www.nuffic.nl/international-organizations/docs/publications/Gradingsystems.pdf). My thesis, entitled \"Heroes at Home? Disputing Popular Images of Nonmigrating Husbands of Overseas Filipina Worker\", may be read at http://phillipgresham.com/docs/heroes-at-home.pdf. Other of my work can be read at http://phillipgresham.com/papers.",
+      "summary": " - Led project to modernize an electric-transformer overloading calculation, saving the company $2MM+ annually in equipment replacement and labor.",
       "url": ""
     }
   ],
@@ -359,6 +332,18 @@
       "fluency": "Native Speaker"
     }
   ],
+  "tech": [
+    "JavaScript",
+    "Ruby",
+    "React",
+    "HTML5",
+    "CSS3",
+    "NodeJS",
+    "MongoDB",
+    "PostgreSQL",
+    "AWS",
+    "Google Cloud Platform"
+  ],
   "interests": [],
   "references": [
     {
@@ -386,6 +371,7 @@
     {
       "name": "SignDocs",
       "url": "https://signdocs.herokuapp.com",
+      "repo": "https://github.com/philgresh/signdocs",
       "description": "- Leveraged Ruby on Rails polymorphic associations for 'stand-in' fields to drag onto a PDF document, to allow users to assign fields to other users without committing their values.\n- Stored signature data as SVGs on AWS S3 storage instead of data strings, to improve caching and visibility on other users’ screens.\n- Delighted users by allowing personalized signatures, using either a mouse/trackpad (used react-signature-pad to derive an SVG from canvas) or selecting from various fonts (Google Fonts).\n- Implemented forgotten-password and document finalization features that send emails to users through SendGrid."
     }
   ]

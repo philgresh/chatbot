@@ -44,7 +44,7 @@ footer {
     margin: 0; }
 
 a {
-  color: #a795ef; }
+  color: #08415c; }
 
 .copyurl {
   width: 100%;
@@ -76,7 +76,7 @@ div.input label {
       padding: 0.5rem; }
     .addon button:hover {
       background: #fff;
-      color: #a795ef; }
+      color: #08415c; }
 
 div.hr {
   border: 1px dashed #ccc;
@@ -85,7 +85,7 @@ div.hr {
   height: 1px; }
 
 a.button {
-  border: 2px solid #a795ef;
+  border: 2px solid #08415c;
   font-weight: bold;
   margin: 0;
   border-radius: 3px;
@@ -147,6 +147,8 @@ a.button {
     #message_window section div div {
       margin: 0.25rem;
       clear: both; }
+    #message_window section #message-list .work .position {
+      font-weight: bold; }
   #message_window footer {
     border-top: 1px solid #ccc;
     padding: 0.25rem; }

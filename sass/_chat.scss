@@ -72,6 +72,14 @@ $message_font_size: large;
       margin: 0.25rem;
       clear: both;
     }
+
+    & #message-list {
+      & .work {
+        & .position {
+          font-weight: bold;
+        }
+      }
+    }
   }
 
   footer {
